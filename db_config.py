@@ -5,6 +5,6 @@ def get_database_connection():
         host="gateway01.ap-southeast-1.prod.aws.tidbcloud.com",
         user="4RBUcTRHeYRJodu.root",
         password="2zAR75RiWhGUDdCg",
-        database="student_task_manager"
+        database="student_task_manage"
         )
     return connection
